@@ -6,7 +6,7 @@ style: center
 fa-icon: check-square-o
 ---
 
-# Qué es
+# AgileHome
 
 
 <span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
