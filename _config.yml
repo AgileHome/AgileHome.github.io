@@ -14,7 +14,7 @@ keywords:    "AgileHome, universidad, granada, ugr, etsiit, informatica, mda, me
 description: "AgileHome es un proyecto para Metodologías de Desarrollo Ágiles, del grado de Ingeniería Informática, UGR"
 source_link: "https://agilehome.github.io"
 favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+touch_icon:  "img/agileIcon.gif"
 google_analytics_key: 
 
 ### template colors, used site-wide via css ###

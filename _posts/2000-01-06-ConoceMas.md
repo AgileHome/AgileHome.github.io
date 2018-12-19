@@ -1,6 +1,6 @@
 ---
-title: "Conoce mas"
-bg: grisecillo
+title: "Recursos"
+bg: '#9c23f3'
 color: white
 fa-icon: code
 ---

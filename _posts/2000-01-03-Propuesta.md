@@ -1,6 +1,6 @@
 ---
-title: "Propuesta"
-bg: blue
+title: "¿Por qué?"
+bg: '#77ac67'
 color: white
 fa-icon: check-square-o
 ---

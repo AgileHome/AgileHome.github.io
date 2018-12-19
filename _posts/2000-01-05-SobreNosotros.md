@@ -1,6 +1,6 @@
 ---
-title: "Sobre Nosotros"
-bg: '#63BD2F'
+title: "Nosotros"
+bg: '#2234ac'
 color: white
 fa-icon: plug
 ---
