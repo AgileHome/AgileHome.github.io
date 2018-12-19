@@ -1,15 +1,6 @@
 ---
-title: "AgileHome"
+title: "<img style=\"height:4em;width:auto\" src=\"./img/agileIcon.gif\" />"
 bg: darkgray
 color: darkgray
 style: center
-fa-icon: check-square-o
 ---
-
-# Qué es
-
-
-<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
-  <i class="fa fa-circle fa-stack-2x text-white"></i>
-  <i class="fa fa-bicycle fa-stack-1x text-orange"></i>
-</span>
