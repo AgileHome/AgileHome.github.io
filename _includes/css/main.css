@@ -132,6 +132,10 @@ nav ul {
   letter-spacing:-4px;
 }
 
+.icon-title {
+  line-height: 0.5em;
+}
+
 nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;

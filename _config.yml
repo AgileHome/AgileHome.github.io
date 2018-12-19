@@ -1,10 +1,5 @@
 ---
 
-port: 4000
-host: 0.0.0.0
-safe: false
-
-
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 permalink: /:title ## disables post output
@@ -14,18 +9,17 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "AgileHome"
+keywords:    "AgileHome, universidad, granada, ugr, etsiit, informatica, mda, metodologias, desarrollo, agil"
+description: "AgileHome es un proyecto para Metodologías de Desarrollo Ágiles, del grado de Ingeniería Informática, UGR"
+source_link: "https://agilehome.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
-
+google_analytics_key: 
 
 ### template colors, used site-wide via css ###
 colors:
-  darkgray:  '#444'
+  darkgray:  '#2e2e2e'
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
