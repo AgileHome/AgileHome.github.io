@@ -27,4 +27,4 @@ En este tablón se puede encontrar todo el _Backlog_ del proyecto, así como su 
 
 Para mostrar un prototipo utilizable, usamos _JustInMind_, con una licencia proporcionada por la Universidad de Granada
 
-**[Enlace al prototipo de _JustInMind_](./justinmind/ "Enlace al prototipo de JustInMind")**
+**[Enlace al prototipo de _JustInMind_](/prototype/ "Enlace al prototipo de JustInMind")**
