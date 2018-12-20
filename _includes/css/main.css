@@ -49,7 +49,6 @@ pre {
 
 .highlight { margin:20px 5%; }
 
-
 /* ----- base elements ----- */
 
 img {
@@ -61,7 +60,7 @@ img {
 hr {
   margin:60px auto;
   width:50%;
-  border-color: {{ site.colors.black }};
+  border-color: rgba(255, 255, 255, 0.33);
 }
 
 .container { word-wrap: break-word; }

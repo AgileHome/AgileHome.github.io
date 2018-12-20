@@ -5,4 +5,4 @@ color: white
 style: center
 ---
 
-# AgileHome
+# AgileHome&reg;
