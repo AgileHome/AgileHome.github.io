@@ -8,23 +8,23 @@ fa-icon: code
 
 # Documentos
 
-El almacenamiento de los documentos de nuestro proyecto corre al cargo de Google Drive.
+El almacenamiento de los documentos de nuestro proyecto corre al cargo de **[Google Drive][drive]**, en el que podemos ver los documentos generados en el desarrollo del proyecto.
 
-**[Enlace a Google Drive](https://drive.google.com/drive/folders/19UtWC_u8tXPXTA4E63eoFl02yd-JtK-f?usp=sharing "Enlace a Google Drive")**
+[drive]: https://drive.google.com/open?id=1KGvteaAry3gPBXJ2tiqkh09wHutRk4Qw "Enlace a Google Drive"
 
 ---
 
 # Tablones
 
-Elegimos usar Trello como nuestra herramienta para gestionar el flujo de trabajo.
-En este tablón se puede encontrar todo el _Backlog_ del proyecto, así como su desarrollo
+Elegimos usar **[Trello][trello]** como nuestra herramienta para gestionar el flujo de trabajo.
+En estos tablones se puede encontrar todo el _Backlog_ del proyecto, así como durante su desarrollo en _Sprints_.
 
-**[Enlace a Trello](https://trello.com/b/CKNpCXfN/mda-23 "Enlace a Trello")**
+[trello]: https://trello.com/mda_agilehome "Enlace a Trello"
 
 ---
 
 # Prototipo
 
-Para mostrar un prototipo utilizable, usamos _JustInMind_, con una licencia proporcionada por la Universidad de Granada
+Para el prototipado usamos **_[JustInMind][justinmind]_**, que nos proporciona herramientas interactivas para mostrar un ejemplo de cómo sería el funcionamiento la aplicación.
 
-**[Enlace al prototipo de _JustInMind_](/prototype/ "Enlace al prototipo de JustInMind")**
+[justinmind]: https://agilehome.github.io/prototype/ "Enlace al prototipo de JustInMind"
